@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  input {
+    border: 2px solid black;
+    margin: 2px 2px;
+  }
+}
